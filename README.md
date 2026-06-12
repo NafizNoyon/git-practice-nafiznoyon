@@ -10,13 +10,57 @@
 
 
 
-\## Project Description
+\## About This Project
 
 
 
-This project is created for practicing Git and GitHub.
+This is a simple Python project created for practicing Git and GitHub.
 
 
 
-The project demonstrates how to create a repository, initialize Git locally, make commits, work with branches, merge branches, and push code to GitHub.
+\## Features
+
+
+
+\- Local Git repository
+
+\- Multiple commits
+
+\- Branch creation
+
+\- Branch merging
+
+\- GitHub remote repository
+
+\- Basic calculator functions
+
+
+
+\## Technologies Used
+
+
+
+\- Python
+
+\- Git
+
+\- GitHub
+
+
+
+\## Folder Structure
+
+
+
+git-practice-nafiznoyon/
+
+README.md
+
+.gitignore
+
+src/main.py
+
+src/utils.py
+
+docs/project-description.md
 
