@@ -1,1 +1,5 @@
-# Utility functions will be added later
+def add(a, b):
+    return a + b
+
+def subtract(a, b):
+    return a - b
